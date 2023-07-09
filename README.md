@@ -4,7 +4,7 @@ Joy-Pi
 Documentation and Files for the Joy-Pi Briefcase.
 
 Version 11 (Bullseye) of Raspbian has some changes in the boot configuration,
-that prevents the integrated LCD-7-2-C display from working. This repository
+that prevents the integrated LCD-7-2 (C) display from working. This repository
 collects necessary documentation to solve existing and future issues.
 
 
